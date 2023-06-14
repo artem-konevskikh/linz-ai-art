@@ -1,8 +1,6 @@
 # linz-ai-art
 Materials for the workshop at University of Arts Linz
 
-## Colab notebooks
-
 ## Slides
 [01 - Machinic forms of intelligence](https://docs.google.com/presentation/d/1NlKHDQZaWOz6Lm1F1MMOi94NTYEF1ZWb26a8P2VqhwY/edit?usp=sharing)  
 [02 - Computer Vision](https://docs.google.com/presentation/d/1jlxmBXpT9KpDA7c1y-ZHYHdjMus1pGdNxa1pl_-G9NA/edit?usp=sharing)  
